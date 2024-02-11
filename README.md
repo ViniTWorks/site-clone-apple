@@ -1,1 +1,6 @@
-site-clone-apple
+# site-clone-apple
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
