@@ -1,4 +1,4 @@
-# site-clone-apple
+# Site Clone Apple Watches
 ## Tecnologias Utilizadas
 
 - HTML
